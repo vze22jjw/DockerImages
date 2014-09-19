@@ -66,3 +66,4 @@ You can see this in the Dockerfile itself indicated by the FROM command in the t
 
 
 now head of to the complete blogpost on how to use these images:
+http://blog.nickbelhomme.com/php/moving-from-vagrant-to-docker-in-an-easy-way_447
