@@ -15,6 +15,12 @@ The purpose of this repo is just to showcase 2 very simple docker Dockerfiles
 which you can use to start local development with a debian environment running
 php5 and a postgresql database.
 
+
+## What it is not
+a showcase on how to code PHP. This code presented here is RUBBISH, utter rubbish.
+I made it this way so your focus would be on Docker and not in understanding the code
+or clicking through Classes or includes to make you understand.
+
 ## How to
 
 check out this repo and go inside the debianapachephp directory
