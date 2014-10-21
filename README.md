@@ -23,15 +23,15 @@ or clicking through Classes or includes to make you understand.
 
 ## How to
 
-check out this repo and go inside the debianapachephp directory
+check out this repo and go inside the apache directory
 from there do a
 
 ```vim
-cd debianapachephp
-docker build -t nickbelhomme/debianapachephp .
+cd apache
+docker build -t nickbelhomme/apache .
 ```
 
-this will give you an image tagged nickbelhomme/debianapachephp. You can ofcourse name
+this will give you an image tagged nickbelhomme/apache. You can ofcourse name
 it any way you want, but try to keep the format [yourname]/[imagename]
 This will come in handy if you ever want to push it to the docker registry: http://registry.hub.docker.com/
 The latter is of course optional.
@@ -56,7 +56,7 @@ it will list something as
 
 ```vim
 nickbelhomme/postgres          latest              3d09510dab44        2 hours ago        271.3 MB
-nickbelhomme/debianapachephp   latest              f6eb10d32f1c        2 hours ago        223.6 MB
+nickbelhomme/apache   latest              f6eb10d32f1c        2 hours ago        223.6 MB
 debian                         wheezy              29853cd4f422        42 hours ago        85.19 MB
 ```
 
